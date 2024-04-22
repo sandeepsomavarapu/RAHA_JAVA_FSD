@@ -1,0 +1,85 @@
+JAVA FullStack:
+
+
+
+	java developer
+	db developer
+	ui developer
+
+
+Corejava
+frameworks-->readymade
+database(mysql),servlets,jsp
+spring,springboot,hibernate,jpa(microservices casestudy)3-4 case studies 
+
+html,css,js,ts,bs,react/angular
+
+maven,git
+
+
+					JAVA 
+			JSE 	JEE     JME		
+
+1)desktop/standalone app  notepad++,vlc,anti virus   corejava,awt,swings,applets   JSE
+2)web app				 gmail,insta,amazon,flipkart	servlets,jsp,spring mvc,spring,....	JEE	
+3)distributed app    webservices
+4)mobile app         android   
+
+
+1996
+
+OOP-->communcation -->software-->machine
+
+
+
+POP									OOPS
+B,C,BCPL,COBOL,PHOTON,....			java,python,.net,c++,...OOPL
+
+
+				security		encapsulation,abstraction
+				performance		inheritance, polymorphisam
+
+setup
+why java?
+
+	
+		1)Platform Independent 
+		2)garbage collection		garbage collector
+
+	sun micro system//oracle corporation	microsoft
+		java 								.net  platform dependent lanaguage
+
+JDK
+					machine1(sandeep)
+						.net (windows)		WORA
+
+
+	machine2(harshini)			machine3(rajeshwari)
+	windows						 mac
+	
+	
+	
+	
+	HelloWorld
+	
+	
+	
+	welcome to java
+	
+	
+	
+	53 keywords -->lowercase 
+	56
+	26
+	
+	
+	.py,.c,.cpp,.html
+	
+	Welcome.java
+	
+	java -->1996--->oracle-->22
+	
+		james gosling==>OAK-->java coffee seed
+	
+	
+	
