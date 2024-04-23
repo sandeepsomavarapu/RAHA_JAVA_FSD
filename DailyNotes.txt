@@ -80,6 +80,63 @@ JDK
 	java -->1996--->oracle-->22
 	
 		james gosling==>OAK-->java coffee seed
+		
+		
+Identifiers:=
+============	
+	any name in java will call it as identifier
+		classname,varname,methodname,interface,label name....
+		
+		
+		class Welcome@123
+		{
+		
+		
+		
+		}
+		
+		a-z
+		A-Z
+		0-9
+		_
+		$
+		
+		
+	Variables:
+=============
+		name of memory location
+		
+		sandeeptrainer	94949494
+		
+	syntax:
+			datatype varname=value;
+			
+			
+			age,contact,weight -->number
+			name--->String ""
+			78.43
+			gender -->M/F
+			true,false 
+			
+			PDT 		NPDT
+		8				String,array,student,enum...	
+			
+		byte    1 byte		-128 to 127
+		short	2 bytes		-32768 to 32767
+		int		4 bytes		-2147483648 to 2147483647
+		long	8 bytes	   9223372036854775808 - 9223372036854775807
+							long age=25;// byte  age=25;  contact=9494348734
+		float 	4 bytes		float result=23.4445329817912f;	
+		double	8 bytes 	float result=23.4445329817912;
+		
+		char	2 bytes		'M'
+		boolean 1 bit   true-1 false-0
+		
+		
+		
+		
+		
+		
 	
 	
 	
