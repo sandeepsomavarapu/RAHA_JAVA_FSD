@@ -133,9 +133,34 @@ Identifiers:=
 		boolean 1 bit   true-1 false-0
 		
 		
+		local variables-->inside the method 
+			
+			global variables-->outside the method inside the class
 		
+				instance and static 
+				
+Syntax
+		static int countryCode=91;  //4 bytes
+	if there is no static that is instance
+Memory
+		static variables will get memory only once at the time of class loading into JVM  execute(java classname)
+		instance variables will get memory for every object creation
 		
+		CLASS 	A		OBJECT -->INSTANIATION
 		
+		classname objname=new classname();
+		A obj=new A();
+		
+Access
+		instance variables we can access by using obj reference 
+		static  variables we can access by using classname
+
+
+Usage 
+		if its common data like  countryname,statename,schoolname,collegename..	use static 	
+		if its unique data like  mobileno,accno,aadhar no,empid,stuid,mailid.... 	instance
+				
+				
 		
 	
 	
