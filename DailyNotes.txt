@@ -146,7 +146,7 @@ Memory
 		static variables will get memory only once at the time of class loading into JVM  execute(java classname)
 		instance variables will get memory for every object creation
 		
-		CLASS 	A		OBJECT -->INSTANIATION
+		CLASS 	A		OBJECT -->INSTANIATION,memory creation
 		
 		classname objname=new classname();
 		A obj=new A();
@@ -161,7 +161,62 @@ Usage
 		if its unique data like  mobileno,accno,aadhar no,empid,stuid,mailid.... 	instance
 				
 				
+methods
+========
+	group of statements-->reusability
+
+
+
+public static void main(String args[])
+{
+
+
+}
+
+syntax:
+=======
+public/private/protected/default
+accesmodifier static/instance returntype methodname(int a,int b,float c .... )
+{
+
+
+
+}
+
+
+
+
+
+
+
+
 		
 	
 	
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
