@@ -184,16 +184,61 @@ accesmodifier static/instance returntype methodname(int a,int b,float c .... )
 }
 
 
+Editor:IDE(integrated development environment)
+
+	eclipse,netbeans,intellji,vscode,myeclipse....
 
 
-
-
-
-
+ARRAYS:
+=======
+		variable-->can hold one value
 		
+		int number=123;
+			number=124;
 	
+		array-->group of values
 	
+		int numbers[]={12,1,244,421,52,77,324};//7 
+
+		index-->0,1,2,3,4,5,6
+
+		numbers[2]
 	
+		homogeneous
+		
+		int arr[]=new int[10];//fixed 
+
+							//AIOE
+				arr[0]=12;
+
+
+Flow control statements:
+=======================
+if,else,switch,for,while,do-while....
+boolean-->true,false 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
