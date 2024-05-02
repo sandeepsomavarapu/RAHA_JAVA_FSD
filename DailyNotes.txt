@@ -218,15 +218,14 @@ if,else,switch,for,while,do-while
 boolean-->true,false 
 
 
-
-
 ctrl+/ -->single line comments to add/remove
 
 ctrl+shift+/-->multi line comments
 
 
+int a=123,124;
 
-
+array--->
 
 
 
